@@ -39,14 +39,14 @@ If you want to see the PowerProof, this is here, below:
 Tested on a 2 cores machine with 900MBytes/s Upload
 
 
-Creator: **InfinityX**
+Creator: **xFactory**
 
 Collaboration: **No one, i did it alone**
 
 License: **MIT License**
 
 MIT License:
->Copyright (c) 2021 InfinityX
+>Copyright (c) 2021 xFactory
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
